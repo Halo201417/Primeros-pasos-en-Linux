@@ -6,11 +6,11 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 
 # 📖 Índice del curso
 
-1. [Primeros pasos y parámetros](#primeros-pasos-y-parámetros)
+1. [Primeros pasos y parámetros 🚀](./primeros-pasos.md#1primeros-pasos-y-parámetros)
 2. [Las opciones](#las-opciones)
 3. [Navegar por directorios](#navegar-por-directorios)
 4. [Rutas absolutas y relativas](#rutas-absolutas-y-relativas)
-5. [Atajos en Bash](#atajos-en-bash)
+5. [Atajos en bash](#atajos-en-bash)
 6. [Crear, mover y eliminar ficheros](#crear-mover-y-eliminar-ficheros)
 7. [Copiar elementos](#copiar-elementos)
 8. [Asterisco](#asterisco)
