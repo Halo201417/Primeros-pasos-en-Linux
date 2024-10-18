@@ -11,7 +11,7 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 3. [Rutas absolutas y relativas 🗺️](./3.Rutas_absolutas_y_relativas.md#rutas-absolutas-y-relativas)
 4. [Atajos en bash ⌨️](./4.Atajos_en_bash.md#atajos-en-bash)
 5. [Crear, mover y eliminar ficheros 🛠️](./5.Crear_mover_y_eliminar_ficheros.md#crear-mover-y-eliminar-ficheros)
-6. [Copiar elementos](#copiar-elementos)
+6. [Copiar elementos 📋](./6.Copiar_elementos.md#copiar-elementos)
 7. [Asterisco](#asterisco)
 8. [Interrogación](#interrogación)
 9. [Usuarios y grupos](#usuarios-y-grupos)
