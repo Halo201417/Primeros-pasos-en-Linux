@@ -7,7 +7,7 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 # 📖 Índice del curso
 
 1. [Primeros pasos y parámetros 🚀](./1.Primeros_pasos_y_parámetros.md#1primeros-pasos-y-parámetros)
-2. [Navegar por directorios](./2.Navegar_por_directorios.md#2navegar-por-directorios)
+2. [Navegar por directorios 📂](./2.Navegar_por_directorios.md#2navegar-por-directorios)
 3. [Rutas absolutas y relativas](#rutas-absolutas-y-relativas)
 4. [Atajos en bash](#atajos-en-bash)
 5. [Crear, mover y eliminar ficheros](#crear-mover-y-eliminar-ficheros)
