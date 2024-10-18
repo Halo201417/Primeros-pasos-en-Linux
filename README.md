@@ -7,27 +7,22 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 # 📖 Índice del curso
 
 1. [Primeros pasos y parámetros 🚀](./1.Primeros_pasos_y_parámetros.md#1primeros-pasos-y-parámetros)
-2. [Las opciones](#las-opciones)
-3. [Navegar por directorios](#navegar-por-directorios)
-4. [Rutas absolutas y relativas](#rutas-absolutas-y-relativas)
-5. [Atajos en bash](#atajos-en-bash)
-6. [Crear, mover y eliminar ficheros](#crear-mover-y-eliminar-ficheros)
-7. [Copiar elementos](#copiar-elementos)
-8. [Asterisco](#asterisco)
-9. [Interrogación](#interrogación)
-10. [Usuarios y grupos](#usuarios-y-grupos)
-11. [Crear usuarios, grupos y contraseñas](#crear-usuarios-grupos-y-contraseñas)
-12. [Permisos de los ficheros](#permisos-de-los-ficheros)
-13. [Cambiar permisos con chmod](#cambiar-permisos-con-chmod)
-14. [Cambiar permisos con chmod y números](#cambiar-permisos-con-chmod-y-números)
+2. [Navegar por directorios](#navegar-por-directorios)
+3. [Rutas absolutas y relativas](#rutas-absolutas-y-relativas)
+4. [Atajos en bash](#atajos-en-bash)
+5. [Crear, mover y eliminar ficheros](#crear-mover-y-eliminar-ficheros)
+6. [Copiar elementos](#copiar-elementos)
+7. [Asterisco](#asterisco)
+8. [Interrogación](#interrogación)
+9. [Usuarios y grupos](#usuarios-y-grupos)
+10. [Crear usuarios, grupos y contraseñas](#crear-usuarios-grupos-y-contraseñas)
+11. [Permisos de los ficheros](#permisos-de-los-ficheros)
+12. [Cambiar permisos con chmod](#cambiar-permisos-con-chmod)
+13. [Cambiar permisos con chmod y números](#cambiar-permisos-con-chmod-y-números)
 
 ## 🚀 Primeros pasos y parámetros
 
 Veremos los comandos más básicos y aprenderemos lo que son los parámetros.
-
-## ⚙️ Las opciones
-
-Exploraremos las opciones y cómo, al usar comandos básicos, podemos combinarlas con parámetros.
 
 ## 📂 Navegar por directorios
 
