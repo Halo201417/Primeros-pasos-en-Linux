@@ -14,7 +14,7 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 6. [Copiar elementos 📋](./6.Copiar_elementos.md#copiar-elementos)
 7. [Asterisco ✨](./7.Asterisco.md#asterisco)
 8. [Interrogación ❓](./8.Interrogación.md#interrogación)
-9. [Usuarios y grupos](#usuarios-y-grupos)
+9. [Usuarios y grupos 👤](./9.Usuarios_y_grupos.md#usuarios-y-grupos)
 10. [Crear usuarios, grupos y contraseñas](#crear-usuarios-grupos-y-contraseñas)
 11. [Permisos de los ficheros](#permisos-de-los-ficheros)
 12. [Cambiar permisos con chmod](#cambiar-permisos-con-chmod)
