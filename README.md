@@ -13,7 +13,7 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 5. [Crear, mover y eliminar ficheros 🛠️](./5.Crear_mover_y_eliminar_ficheros.md#crear-mover-y-eliminar-ficheros)
 6. [Copiar elementos 📋](./6.Copiar_elementos.md#copiar-elementos)
 7. [Asterisco ✨](./7.Asterisco.md#asterisco)
-8. [Interrogación](#interrogación)
+8. [Interrogación ❓](./8.Interrogación.md#interrogación)
 9. [Usuarios y grupos](#usuarios-y-grupos)
 10. [Crear usuarios, grupos y contraseñas](#crear-usuarios-grupos-y-contraseñas)
 11. [Permisos de los ficheros](#permisos-de-los-ficheros)
