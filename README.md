@@ -17,7 +17,7 @@ Este curso está diseñado principalmente para distribuciones basadas en Debian,
 9. [Usuarios y grupos 👤](./9.Usuarios_y_grupos.md#usuarios-y-grupos)
 10. [Crear usuarios, grupos y contraseñas 👥](./10.Crear_usuarios_grupos_y_contraseñas.md#crear-usuarios-grupos-y-contraseñas)
 11. [Permisos de los ficheros 🔐](./11.Permisos_de_los_ficheros.md#permisos-de-los-ficheros)
-12. [Cambiar permisos con chmod](#cambiar-permisos-con-chmod)
+12. [Cambiar permisos con chmod 🔧](./12.Cambiar_permisos_con_chmod.md#cambiar-permisos-con-chmod)
 13. [Cambiar permisos con chmod y números](#cambiar-permisos-con-chmod-y-números)
 
 ## 🚀 Primeros pasos y parámetros
